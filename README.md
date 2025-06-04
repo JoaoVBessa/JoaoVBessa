@@ -1,4 +1,4 @@
-<h2 align="left">Prazer, me chamo João Victor Bessa ⚡</h2>
+<h2 align="left">João Victor Bessa ⚡</h2>
 
 ###
 
